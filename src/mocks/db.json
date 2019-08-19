@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Manuel",
+      "lastname": "Del Pozo",
+      "email": "madepozo@gmail.com",
+      "age": 28,
+      "phone": 997868546,
+      "role": "Web UI Developer",
+      "id": 4
+    },
+    {
+      "name": "Gustavo",
+      "lastname": "Yauri",
+      "email": "gryauri@gmail.com",
+      "age": "23",
+      "phone": "993675896",
+      "role": "Especialista",
+      "id": 5
+    },
+    {
+      "name": "Juan Carlos",
+      "lastname": "Revolledo",
+      "email": "abc@gmail.com",
+      "age": "28",
+      "phone": "993492713",
+      "role": "Tecnico",
+      "id": 6
+    }
+  ]
+}
