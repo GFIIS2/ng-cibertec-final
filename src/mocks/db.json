@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "name": "Manuel",
+      "name": "Manuel2",
       "lastname": "Del Pozo",
       "email": "madepozo@gmail.com",
-      "age": 28,
+      "age": 23,
       "phone": 997868546,
       "role": "Web UI Developer",
       "id": 4
@@ -13,19 +13,10 @@
       "name": "Gustavo",
       "lastname": "Yauri",
       "email": "gryauri@gmail.com",
-      "age": "23",
-      "phone": "993675896",
-      "role": "Especialista",
+      "age": 26,
+      "phone": 993492713,
+      "role": "Sistemas",
       "id": 5
-    },
-    {
-      "name": "Juan Carlos",
-      "lastname": "Revolledo",
-      "email": "abc@gmail.com",
-      "age": "28",
-      "phone": "993492713",
-      "role": "Tecnico",
-      "id": 6
     }
   ]
 }
